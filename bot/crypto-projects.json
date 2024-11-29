@@ -1,0 +1,108 @@
+[
+  {
+    "project": "Ethereum",
+    "descriptions": {
+      "short": "Short: Smart contract platform enabling decentralized applications and DeFi",
+      "long": "Open-source blockchain platform launched in 2015, pioneering programmable smart contracts. Powers thousands of decentralized applications, NFTs, and DeFi protocols. Transitioned to proof-of-stake in 2022, significantly reducing energy consumption. Uses ETH as native currency and features Layer 2 scaling solutions."
+    },
+    "requirements": {
+      "task": "Describe",
+      "difficulty": "easy"
+    },
+    "rewards": {
+        "amount": 45,
+        "distribution_date": "30.11.2024"
+    },
+
+    "links": {
+      "official_website": "https://ethereum.org",
+      "twitter": "https://twitter.com/ethereum",
+      "reddit": "https://reddit.com/r/ethereum",
+      "github": "https://github.com/ethereum"
+    }
+  },
+  {
+    "project": "Solana",
+    "descriptions": {
+      "short": "High-speed blockchain optimized for scalability and low costs",
+      "long": "Blockchain platform using proof-of-history mechanism, processing up to 65,000 transactions per second. Features sub-second finality and minimal fees. Popular for DeFi, NFTs, and gaming applications. Known for institutional adoption but faces occasional network stability challenges."
+    },
+    "requirements": {
+      "task": "Evaluate",
+      "difficulty": "medium"
+    },
+    "rewards": {
+        "amount": 67,
+        "distribution_date": "30.11.2024"
+    },
+    "links": {
+      "official_website": "https://solana.com",
+      "twitter": "https://twitter.com/solana",
+      "discord": "https://solana.com/discord",
+      "github": "https://github.com/solana-labs"
+    }
+  },
+  {
+    "project": "Cardano",
+    "descriptions": {
+      "short": "Peer-reviewed blockchain platform focusing on sustainability and scalability",
+      "long": "Academic-driven blockchain using proof-of-stake Ouroboros protocol. Implements staged development approach with formal verification. Supports smart contracts, native tokens, and staking. Emphasizes environmental sustainability and financial inclusion in developing regions."
+    },
+    "requirements": {
+      "task": "Describe",
+      "difficulty": "easy"
+    },
+    "rewards": {
+        "amount": 23,
+        "distribution_date": "30.11.2024"
+    },
+    "links": {
+      "official_website": "https://cardano.org",
+      "twitter": "https://twitter.com/cardano",
+      "reddit": "https://reddit.com/r/cardano",
+      "github": "https://github.com/cardano-foundation"
+    }
+  },
+  {
+    "project": "Polkadot",
+    "descriptions": {
+      "short": "Multi-chain network enabling cross-blockchain transfers and communication",
+      "long": "Heterogeneous multi-chain framework allowing customized blockchains (parachains) to interact. Uses nominated proof-of-stake consensus. Enables cross-chain transfer of data and assets. Features shared security model and on-chain governance through DOT token holders."
+    },
+    "requirements": {
+      "task": "Compare",
+      "difficulty": "hard"
+    },
+    "rewards": {
+        "amount": 98,
+        "distribution_date": "30.11.2024"
+    },
+    "links": {
+      "official_website": "https://polkadot.network",
+      "twitter": "https://twitter.com/Polkadot",
+      "reddit": "https://reddit.com/r/dot",
+      "github": "https://github.com/paritytech/polkadot"
+    }
+  },
+  {
+    "project": "Chainlink",
+    "descriptions": {
+      "short": "Decentralized oracle network connecting blockchains to real-world data",
+      "long": "Infrastructure enabling smart contracts to access external data feeds, APIs, and traditional bank payments. Provides price feeds for DeFi, randomness for gaming, and verifiable computations. Uses node operator network to ensure reliable, tamper-proof data delivery."
+    },
+    "requirements": {
+      "task": "Evaluate",
+      "difficulty": "medium"
+    },
+    "rewards": {
+        "amount": 23,
+        "distribution_date": "30.11.2024"
+    },
+    "links": {
+      "official_website": "https://chain.link",
+      "twitter": "https://twitter.com/chainlink",
+      "reddit": "https://reddit.com/r/chainlink",
+      "github": "https://github.com/smartcontractkit/chainlink"
+    }
+  }
+]
