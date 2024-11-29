@@ -13,7 +13,9 @@
         "amount": 45,
         "distribution_date": "30.11.2024"
     },
-
+    "status": "done",
+    "deadline": "14.12.2024",
+    "last_updated": "29.11.2024",
     "links": {
       "official_website": "https://ethereum.org",
       "twitter": "https://twitter.com/ethereum",
@@ -35,6 +37,9 @@
         "amount": 67,
         "distribution_date": "30.11.2024"
     },
+    "status": "in-progress",
+    "deadline": "09.03.2025",
+    "last_updated": "29.11.2024",
     "links": {
       "official_website": "https://solana.com",
       "twitter": "https://twitter.com/solana",
@@ -56,6 +61,9 @@
         "amount": 23,
         "distribution_date": "30.11.2024"
     },
+    "status": "done",
+    "deadline": "10.12.2025",
+    "last_updated": "29.11.2024",
     "links": {
       "official_website": "https://cardano.org",
       "twitter": "https://twitter.com/cardano",
@@ -77,6 +85,9 @@
         "amount": 98,
         "distribution_date": "30.11.2024"
     },
+    "status": "new",
+    "deadline": "15.0.3.2025",
+    "last_updated": "29.11.2024",
     "links": {
       "official_website": "https://polkadot.network",
       "twitter": "https://twitter.com/Polkadot",
@@ -98,6 +109,9 @@
         "amount": 23,
         "distribution_date": "30.11.2024"
     },
+    "status": "new",
+    "deadline": "20.12.2024",
+    "last_updated": "29.11.2024",
     "links": {
       "official_website": "https://chain.link",
       "twitter": "https://twitter.com/chainlink",
