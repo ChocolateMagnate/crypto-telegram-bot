@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-from llm import LLM
+from bot.llm import LLM
 
 
 class CryptoProjectBot:
