@@ -22,12 +22,13 @@ class LLM:
 
         with open(CRYPTO_PROJECTS_PATH, "r") as file:
             data = json.load(file)
+            text_data = json.dumps(data)
 
         text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=1000,
             chunk_overlap=200
         )
-        chunks = text_splitter.create_documents(data)
+        chunks = text_splitter.create_documents([text_data])
         vectorstore = FAISS.from_documents(chunks, embeddings)
 
         memory = ConversationBufferMemory(

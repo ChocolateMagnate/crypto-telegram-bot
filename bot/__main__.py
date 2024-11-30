@@ -1,7 +1,7 @@
 import os
 import sys
 
-from bot.telegram import CryptoProjectBot
+from bot.telegram_integration import CryptoProjectBot
 
 if __name__ == "__main__":
     telegram_token = os.getenv("TELEGRAM_API_TOKEN")
